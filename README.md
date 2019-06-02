@@ -14,3 +14,5 @@ Currently the Controller features:
 To learn how to use it check out our video on 2D Movement which can be found on our [YouTube Channel](http://youtube.com/brackeys).
 
 The script is based on the one provided by Unity as part of their Standard Assets.
+
+Video https://www.youtube.com/watch?v=dwcT-Dch0bA
